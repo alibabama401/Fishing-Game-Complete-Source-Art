@@ -106,6 +106,13 @@ A：提供。购买后可远程协助部署。
 ---
 
 <div align="center">
+## 🔍 Keywords (SEO)
+
+fishing game source code  
+arcade fishing game  
+fish shooting game  
+online fishing game platform  
+捕鱼游戏源码 / 捕鱼游戏开发 / 捕鱼游戏平台  
 
 **如果这个项目对你有帮助，欢迎点个 Star 支持一下！**  
 ⭐️ **Star** ⭐️
