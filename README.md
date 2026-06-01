@@ -2,7 +2,7 @@
 
 # 🎣 捕鱼游戏完整源码+美术 | 捕魚遊戲完整源碼+美術 |街机捕鱼|钓鱼源码| 捕鱼源码|Fishing Game Complete Source + Art
 
-**近百种小鱼 · 多种场景 · 特色小游戏 · 工会系统 · 道具背包**
+**近百种小鱼 · 多种场景 · 特色小游戏 · 工会系统 ·. 道具背包**
 
 [![Contact](https://img.shields.io/badge/联系-Telegram-blue.svg)](https://t.me/alibabama401)
 
