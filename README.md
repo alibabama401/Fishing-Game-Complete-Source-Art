@@ -16,7 +16,7 @@
 
 | 语言 | 说明 |
 |:---|:---|
-| **简体中文** | 一套**完整的捕鱼游戏源码+美术资源**。包含**精美美术原图、近百种小鱼、多种打斗场景**。特色小游戏：**弹头夺宝、玉石场、三国场、宠物炸翻天**等。还有**工会对接管理、道具活动、背包**等一整套系统。 |
+| **简体中文** | **完整的捕鱼游戏源码+美术资源**。包含**精美美术原图、近百种小鱼、多种打斗场景**。特色小游戏：**弹头夺宝、玉石场、三国场、宠物炸翻天**等。还有**工会对接管理、道具活动、背包**等一整套系统。 |
 | **繁體中文** | 一套**完整的捕魚遊戲源碼+美術資源**。包含**精美美術原圖、近百種小魚、多種打鬥場景**。特色小遊戲：**彈頭奪寶、玉石場、三國場、寵物炸翻天**等。還有**工會對接管理、道具活動、背包**等一整套系統。 |
 | **English** | A **complete fishing game source code + art resources**. Includes **exquisite art assets, nearly 100 types of small fish, multiple battle scenes**. Special mini-games: **Bullet Treasure, Jade Field, Three Kingdoms Field, Pet Blast**, and more. Also includes **guild system, item events, backpack**, and a complete set of systems. |
 
