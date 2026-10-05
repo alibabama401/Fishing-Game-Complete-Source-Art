@@ -1,4 +1,4 @@
-# 捕魚遊戲完整源碼與美術資源
+# 捕魚遊戲完整源碼與美術資源|捕魚源碼
 
 [简体中文](README.zh-CN.md) · **繁體中文** · [English](README.en.md) · [圖文產品頁](https://alibabama401.github.io/Fishing-Game-Complete-Source-Art/zh-tw/)
 
@@ -77,6 +77,12 @@
 ![玉石主題捕魚場](docs/assets/screenshots/ysx1.jpg)
 
 *玉石主題捕魚場*
+
+### 獲取完整源碼+美術
+
+|:---|:---|
+| **Telegram** | @alibabama401 |
+| **Email** | ttpoker733@gmail.com |
 
 ## 倉庫範圍
 
