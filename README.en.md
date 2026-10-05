@@ -78,6 +78,12 @@ A visual, evidence-based overview of the repository’s Cocos2d-x Lua client mod
 
 *Jade-themed fishing arena*
 
+### Get the complete source code + art assets
+
+|:---|:---|
+| **Telegram** | @alibabama401 |
+| **Email** | ttpoker733@gmail.com |
+
 ## Repository scope
 
 This README describes evidence visible in the public repository. Verify build dependencies, completeness, licenses, security, and asset rights before integration. Search visibility can improve, but no ranking position is guaranteed.
