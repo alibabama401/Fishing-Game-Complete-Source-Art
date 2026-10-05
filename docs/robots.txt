@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://alibabama401.github.io/Fishing-Game-Complete-Source-Art/sitemap.xml
