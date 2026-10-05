@@ -1,12 +1,24 @@
 <div align="center">
 
-# 🎣 捕鱼游戏完整源码+美术 | 捕魚遊戲完整源碼+美術 |街机捕鱼|钓鱼源码| 捕鱼源码|Fishing Game Complete Source + Art|
+# 捕鱼游戏完整源码与美术资源|捕鱼源码|街机捕鱼|钓鱼源码|Fishing Game Complete Source + Art|
+**简体中文** · [繁體中文](README.zh-TW.md) · [English](README.en.md) · [图文产品页](https://alibabama401.github.io/Fishing-Game-Complete-Source-Art/)
 
-**近百种小鱼 · 多种场景 · 特色小游戏 · 工会系统 ·. 道具背包**
+面向“捕鱼源码、捕鱼游戏、捕鱼大作战源码、街机捕鱼”搜索意图，展示仓库中可核实的 Cocos2d-x Lua 客户端模块、C/Android NDK 文件、捕鱼玩法与真实产品截图。
+
+**捕鱼源码 · 捕鱼游戏 · 捕鱼大作战源码 · 街机捕鱼 · Cocos2d-x 捕鱼源码 · 捕鱼美术资源**
+
 
 [![Contact](https://img.shields.io/badge/联系-Telegram-blue.svg)](https://t.me/alibabama401)
 
-**简体中文 · 繁體中文 · English**
+
+
+## 项目概览
+
+- GitHub: https://github.com/alibabama401/Fishing-Game-Complete-Source-Art
+- Pages: https://alibabama401.github.io/Fishing-Game-Complete-Source-Art/
+- 展示 Cocos2d-x Lua 街机捕鱼游戏源码、美术资源、鱼群与 Boss 战斗、炮台道具、特色小游戏、登录好友模块及 Android NDK C 代码。
+
+
 
 </div>
 
@@ -65,8 +77,7 @@
 ![新战斗效果](https://github.com/user-attachments/assets/2d02f4a8-70a1-44c1-b1e2-d458f3aaa766)
 ![x1](https://github.com/user-attachments/assets/9673f929-df0e-4e28-b7bc-8cf05c36192a)
 ![大奖盘](https://github.com/user-attachments/assets/828952f3-536a-479a-8cf9-be9b0758e11d)
-![Uploading x1.jpg…]()
----
+
 
 ## 📁 源码结构 | 源碼結構 | Source Code Structure
 
